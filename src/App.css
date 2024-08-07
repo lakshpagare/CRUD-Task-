@@ -1,0 +1,38 @@
+.main_left{
+  margin: 15px;
+  padding: 40px;
+  border: 2px solid gray;
+  background-color: gray;
+}
+.main_right{
+  margin: 15px;
+  padding: 40px;
+  text-align: center;
+}
+.Input_fild{
+  text-align: center;
+  margin-left: 100px;
+
+}
+
+.table_heading{
+  padding: 15px;
+  
+}
+.table_heading h3{
+  display: inline-block;
+  border: 2px solid black;
+  padding: 10px;
+  width: 200px;
+}
+.submit-btn{
+  width: 80px;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 20px;
+  background-color: green;
+}
+.row{
+  padding-top: 10px;
+  
+}
